@@ -1,3 +1,3 @@
-# -Simulink-
+![ ](https://img.shields.io/badge/license-GPL3-red)     ![ ](https://img.shields.io/badge/build-passing-green)
 ## 国创赛Simulink仿真
 在做了，在做了……
